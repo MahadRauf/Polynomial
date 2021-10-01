@@ -1,0 +1,7 @@
+javac -d bin src/poly/*.java to compile
+java -cp bin poly.Polytest to execute
+cd to Polynomial folder or it wont be found
+
+*******make sure to change back directory after finishing
+cd C:\Users\mahad\OneDrive\Documents\CS112
+*** enter into terminal
